@@ -1,0 +1,1 @@
+Simple calculator for add of two numbers in ReactJS
